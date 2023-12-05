@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1kZHb9JLPuUesZ9689cR-uDVMjIzFJAhG/edit?usp=sharing&ouid=111360555744891800399&rtpof=true&sd=true](https://docs.google.com/document/d/1kZHb9JLPuUesZ9689cR-uDVMjIzFJAhG/edit?usp=sharing&ouid=111360555744891800399&rtpof=true&sd=true)
 
-- ⚡ Fun fact **My Algebra students scored the highest mean score in the state of Florida in my final year teaching (before moving back to NY!)**
+- ⚡ Fun fact **My Algebra students scored the highest mean score in the state of Florida in my final year teaching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
