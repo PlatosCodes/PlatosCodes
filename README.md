@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Merola</h1>
-<h3 align="center">A passionate full-stack developer from Long Island, NY</h3>
+<h3 align="center">A passionate full-stack developer and educator from Long Island, NY</h3>
 
-- 🔭 I’m currently working on [a full-stack Model Train Collector Management Application](https://github.com/PlatosCodes/MerolaStation)
+- 🔭 I’m currently working on [Desserted - a full-stack, real-time multiplayer Card Game Application](https://github.com/PlatosCodes/Desserted)
 
 - 🌱 I’m currently learning **about Deep Learning through FastAI's Practical Deep Learning Course**
 
@@ -9,9 +9,7 @@
 
 - 💬 Ask me about **my journey from being a math educator to a self-taught full stack developer!**
 
-- 📫 How to reach me **ammerola@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kZHb9JLPuUesZ9689cR-uDVMjIzFJAhG/edit?usp=sharing&ouid=111360555744891800399&rtpof=true&sd=true](https://docs.google.com/document/d/1kZHb9JLPuUesZ9689cR-uDVMjIzFJAhG/edit?usp=sharing&ouid=111360555744891800399&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://platoscodes.github.io/Portfolio/images/resume.png](https://platoscodes.github.io/Portfolio/images/resume.png)
 
 - ⚡ Fun fact **My Algebra students scored the highest mean score in the state of Florida in my final year teaching**
 
