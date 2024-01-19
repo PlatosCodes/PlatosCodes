@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about Deep Learning through FastAI's Practical Deep Learning Course**
 
--  🖥️ Check out my personal website at [https://platoscodes.github.io/Portfolio]([https://github.com/PlatosCodes](https://platoscodes.github.io/Portfolio)
+-  🖥️ Check out my personal website at [https://platoscodes.github.io/Portfolio](https://platoscodes.github.io/Portfolio)
   
 - 👨‍💻 All of my projects are available at [https://github.com/PlatosCodes](https://github.com/PlatosCodes)
 
