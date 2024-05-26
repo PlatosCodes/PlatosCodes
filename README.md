@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **about Deep Learning through FastAI's Practical Deep Learning Course**
 
--  🖥️ Check out my personal website at [https://platoscodes.github.io/Portfolio](https://platoscodes.github.io/Portfolio)
+-  🖥️ Check out my personal website at [https://alexandermerola.com](https://alexandermerola.com)
   
 - 👨‍💻 All of my projects are available at [https://github.com/PlatosCodes](https://github.com/PlatosCodes)
 
 - 💬 Ask me about **my journey from being a math educator to a self-taught full stack developer!**
-
-- 📄 Know about my [https://platoscodes.github.io/Portfolio/images/resume.png](https://platoscodes.github.io/Portfolio/images/resume.png)
 
 - ⚡ Fun fact **My Algebra students scored the highest mean score in the state of Florida in my final year teaching**
 
